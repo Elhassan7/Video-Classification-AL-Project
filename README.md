@@ -1,9 +1,7 @@
 # VideoClassificationApp
-The ultimate goal of this repository is to make a web app to deploy a video classification model, based on CNN and LSTM, using Streamlit.
-To see how it works, you can check the following link : https://youtu.be/j1tdHsOmCng
+## Screenshot
 
-Note : 
-ffmpeg should be installed and added to the path variable so the python file app.py can be be executed successfully.
+![Dashboar Screenshot](https://github.com/Elhassan7/Video-Classification-AL-Project/blob/c5d9a458a1b5e2fdcdd362e98ecff5090d65468b/Capture.PNG)
 
 ## **<font style="color: #1877a5"> Outline </font>**
 
